@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import homeSrc from '@/public/home.png'
 import Hero from '@/components/hero'
 import { Metadata } from 'next'

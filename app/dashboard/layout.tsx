@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { useState } from 'react'
 
-export default function dashboardLayout({
+export default function DashboardLayout({
     children,
 }: Readonly<{
     children: React.ReactNode
