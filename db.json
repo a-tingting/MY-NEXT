@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "3xrb5mog",
+      "title": "训练营",
+      "content": "React12345 基础到进阶"
+    },
+    {
+      "id": "0oct8c6s",
+      "title": "训练营",
+      "content": "React1234 基础到进阶"
+    },
+    {
+      "id": "vcbekb0t",
+      "title": "训练营",
+      "content": "React123 基础到进阶"
+    },
+    {
+      "id": "ztcbo4il",
+      "title": "训练营",
+      "content": "React12 基础到进阶"
+    },
+    {
+      "id": "g0o45dsk",
+      "title": "训练营",
+      "content": "React1 基础到进阶"
+    },
+    {
+      "id": "6s35ku1c",
+      "title": "动态训练营",
+      "content": "React 基础到进阶"
+    }
+  ]
+}
